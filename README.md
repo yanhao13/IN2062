@@ -1,2 +1,2 @@
-# CS188
-UC BERKELEY CS188 INTRO TO ARTIFICIAL INTELLIGENCE
+# IN2062
+Technische Universität München IN2062 Techniques in Artificial Intelligence
